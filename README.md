@@ -11,6 +11,7 @@
 3. Clone repository in nvim folder
 
 `cd $HOME/.config/nvim/lua`
+
 `git clone https://github.com/chpenaf/astronvim-config.git`
 
 4. Rename repository to 'user'
